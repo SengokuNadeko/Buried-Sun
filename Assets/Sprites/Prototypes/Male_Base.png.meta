@@ -120,6 +120,258 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78e8e676526f0043ba48d105a15f89a
+      internalID: -1342321336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2402d26d97514babb478a6b97b559
+      internalID: 1948322312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8033d8f108c5fe4e9b61ede4fc4528c
+      internalID: 528834538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bc7618bac493a4894639d51a06d5ca
+      internalID: -2045383416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeba69dbcb1fa84e9df83a13e56e2b5
+      internalID: -249371234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71adb874851740429cff425f8303bc5
+      internalID: -659150339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80754962d953fd8478ab5247dfa02522
+      internalID: 1448563459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4ae1aa47a6044ea13fef90194ca87
+      internalID: -142785574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc867dcd6a3f1549990f97693f83437
+      internalID: 1830607158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622125a2966d72546a711337fbe3b184
+      internalID: -2000479514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f70cc87f9c6a14c94086e5a4d27862
+      internalID: 1966299999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 20
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fbc47ef196e5a45969858991f4f056
+      internalID: 465572153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Base_12
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
         width: 16
         height: 20
@@ -130,14 +382,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 217af34a1c3d6b14d8458f3457eddd3e
-      internalID: 1480753615
+      spriteID: 364b05d5ffb0f044a8383f3d590c2588
+      internalID: 1586389503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male_Base_1
+      name: Male_Base_13
       rect:
         serializedVersion: 2
         x: 16
@@ -151,14 +403,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e234ffb917904e847a757902e1ebd275
-      internalID: -312931534
+      spriteID: 8f71ca088a1dd3c4da4573485296d919
+      internalID: -585058404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male_Base_2
+      name: Male_Base_14
       rect:
         serializedVersion: 2
         x: 32
@@ -172,14 +424,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05e8c1eb489e9c641b62c94dfc4f2b20
-      internalID: -1046284034
+      spriteID: 43ee1ab1fa32c4e4b8669dfdf46264c6
+      internalID: -824797445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Male_Base_3
+      name: Male_Base_15
       rect:
         serializedVersion: 2
         x: 48
@@ -193,8 +445,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c05a43271f39d5b4987ff1cb59e058ff
-      internalID: 1985815061
+      spriteID: 4dba584a40477a741ae967f311bc4e8b
+      internalID: 1793083260
       vertices: []
       indices: 
       edges: []
@@ -210,10 +462,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Male_Base_1: -312931534
-      Male_Base_2: -1046284034
-      Male_Base_3: 1985815061
-      Male_Base_0: 1480753615
+      Male_Base_1: 1948322312
+      Male_Base_2: 528834538
+      Male_Base_3: -2045383416
+      Male_Base_7: -142785574
+      Male_Base_0: -1342321336
+      Male_Base_12: 1586389503
+      Male_Base_6: 1448563459
+      Male_Base_11: 465572153
+      Male_Base_14: -824797445
+      Male_Base_8: 1830607158
+      Male_Base_15: 1793083260
+      Male_Base_4: -249371234
+      Male_Base_13: -585058404
+      Male_Base_10: 1966299999
+      Male_Base_5: -659150339
+      Male_Base_9: -2000479514
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

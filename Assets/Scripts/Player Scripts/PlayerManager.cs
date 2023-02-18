@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerManager : MonoBehaviour
 {
     public float speed = 5.0f;
+    public Animator player_animator;
     public Rigidbody2D player_rigidbody;
     private Vector2 movement_direction;
     // Start is called before the first frame update
@@ -18,6 +19,7 @@ public class PlayerManager : MonoBehaviour
     {
         Inputs();
         Movement();
+        Animations();
     }
 
     void Inputs() 
@@ -33,5 +35,11 @@ public class PlayerManager : MonoBehaviour
     void Movement() 
     {
         player_rigidbody.velocity = new Vector2(movement_direction.x * speed, movement_direction.y * speed);
+    }
+
+    void Animations() 
+    {
+        player_animator.SetFloat("movement_direction_x", movement_direction.x);
+        player_animator.SetFloat("movement_direction_y", movement_direction.y);
     }
 }
