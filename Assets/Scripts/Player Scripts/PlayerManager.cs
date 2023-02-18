@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class PlayerManager : MonoBehaviour
 {
-    public float speed = 5.0f;
-    public Animator player_animator;
-    public Rigidbody2D player_rigidbody;
+    [SerializeField] private float speed = 5.0f;
+    [SerializeField] private Animator player_animator;
+    [SerializeField] private Rigidbody2D player_rigidbody;
     private Vector2 movement_direction;
     private Vector2 last_movement_direction;
     // Start is called before the first frame update
