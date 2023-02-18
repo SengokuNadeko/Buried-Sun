@@ -8,6 +8,7 @@ public class PlayerManager : MonoBehaviour
     public Animator player_animator;
     public Rigidbody2D player_rigidbody;
     private Vector2 movement_direction;
+    private Vector2 last_movement_direction;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,6 +28,7 @@ public class PlayerManager : MonoBehaviour
         if(movement_direction.x != 0 || movement_direction.y != 0) 
         {
             //When we get animations, add last movement direction here
+            last_movement_direction = movement_direction;
         }
 
         movement_direction = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
@@ -41,5 +43,8 @@ public class PlayerManager : MonoBehaviour
     {
         player_animator.SetFloat("movement_direction_x", movement_direction.x);
         player_animator.SetFloat("movement_direction_y", movement_direction.y);
+        player_animator.SetFloat("last_movement_direction_x", last_movement_direction.x);
+        player_animator.SetFloat("last_movement_direction_y", last_movement_direction.y);
+        player_animator.SetFloat("movement_magnitude", movement_direction.magnitude);
     }
 }
